@@ -1,0 +1,72 @@
+[2023-03-26 21:13:35,012] OS name = Windows 11
+[2023-03-26 21:13:35,013] Driver instance name = chromedriver: chrome on windows (4b663005a0718a0c3edd2ec25828c964)
+[2023-03-26 21:22:46,055] OS name = Windows 11
+[2023-03-26 21:22:46,056] Driver instance name = chromedriver: chrome on windows (1bff43341d04ac5f4d13f957d74deb46)
+[2023-03-26 21:24:27,219] OS name = Windows 11
+[2023-03-26 21:24:27,220] Driver instance name = chromedriver: chrome on windows (c594320ccd298dd74cdea85e1e6ab23d)
+[2023-03-26 21:25:40,228] OS name = Windows 11
+[2023-03-26 21:25:40,228] Driver instance name = chromedriver: chrome on windows (894a851a97dabb5d3aa137046d23dabb)
+[2023-03-26 21:30:40,974] OS name = Windows 11
+[2023-03-26 21:30:40,976] Driver instance name = chromedriver: chrome on windows (78b0b46fb8ccf482bd01568b67ecd6a9)
+[2023-03-26 21:43:20,458]  -------------------------- PASSED -------------------------- 
+[2023-03-26 21:43:22,651]  -------------------------- PASSED -------------------------- 
+[2023-03-26 21:43:22,664] OS name = Windows 11
+[2023-03-26 21:43:22,664] Driver instance name = chromedriver: chrome on windows (63d4e319bea315d2c33cdfe35d2064d2)
+[2023-03-26 21:53:33,596]  -------------------------- PASSED -------------------------- 
+[2023-03-26 21:53:35,947]  -------------------------- PASSED -------------------------- 
+[2023-03-26 21:53:35,947] OS name = Windows 11
+[2023-03-26 21:53:35,947] Driver instance name = chromedriver: chrome on windows (8c2aa1cbe64366bece3fec4202f9916e)
+[2023-03-26 21:55:25,236]  -------------------------- PASSED -------------------------- 
+[2023-03-26 21:55:27,210]  -------------------------- PASSED -------------------------- 
+[2023-03-26 21:55:27,213] OS name = Windows 11
+[2023-03-26 21:55:27,213] Driver instance name = firefoxdriver: firefox on windows (b0d75062-9ff1-4315-a37e-dc933c4df656)
+[2023-03-26 22:41:50,448]  -------------------------- PASSED -------------------------- 
+[2023-03-26 22:41:52,612]  -------------------------- PASSED -------------------------- 
+[2023-03-26 22:41:52,618] OS name = Windows 11
+[2023-03-26 22:41:52,619] Driver instance name = firefoxdriver: firefox on windows (2d5ef413-6d10-45c1-b143-f8a3b72de79c)
+[2023-03-26 23:05:17,850]  -------------------------- PASSED -------------------------- 
+[2023-03-26 23:05:20,124]  -------------------------- PASSED -------------------------- 
+[2023-03-26 23:05:20,131] OS name = Windows 11
+[2023-03-26 23:05:20,132] Driver instance name = firefoxdriver: firefox on windows (2ccc6494-e70f-4920-b748-fcb0d8c920ae)
+[2023-03-27 17:43:45,461]  -------------------------- PASSED -------------------------- 
+[2023-03-27 17:43:47,113]  -------------------------- PASSED -------------------------- 
+[2023-03-27 17:43:47,116] OS name = Windows 11
+[2023-03-27 17:43:47,116] Driver instance name = firefoxdriver: firefox on windows (c50db198-e79d-49b3-b58a-14b2ec65de1e)
+[2023-03-27 17:48:22,566]  -------------------------- PASSED -------------------------- 
+[2023-03-27 17:48:24,611]  -------------------------- PASSED -------------------------- 
+[2023-03-27 17:48:24,616] OS name = Windows 11
+[2023-03-27 17:48:24,618] Driver instance name = firefoxdriver: firefox on windows (a33bf171-5645-4d2f-981a-340159f088bc)
+[2023-03-28 15:10:52,372] OS name = Windows 11
+[2023-03-28 15:10:52,373] Driver instance name = chromedriver: chrome on windows (4326bc52e17ae2e5ea26baf7f6ee8849)
+[2023-03-28 15:11:33,418] Precondition: enter to username 'automationfc'
+[2023-03-28 15:11:33,655] Precondition: enter to password 'automationfc'
+[2023-03-28 15:11:33,803] Precondition: click to 'Login' button
+[2023-03-28 15:11:36,126] Create - Step 01: click to 'Post' menu
+[2023-03-28 15:11:37,828] Create - Step 02: get URL at 'Post Search' page
+[2023-03-28 15:11:37,834] Create - Step 03: click to 'Add New' button
+[2023-03-28 15:11:40,378] Create - Step 04: enter to tilte textbox
+[2023-03-28 15:11:40,726] Create - Step 05: enter to body textbox
+[2023-03-28 15:11:41,591] Create - Step 06: click to 'Publish' button
+[2023-03-28 15:11:41,774] Create - Step 07: verify 'Publish' message is displayed
+[2023-03-28 15:11:43,049] OS name = Windows 11
+[2023-03-28 15:11:43,049] Driver instance name = chromedriver: chrome on windows (e90c9f9acd759d1894e9a36c5cc5fbd7)
+[2023-03-28 15:18:50,864] OS name = Windows 11
+[2023-03-28 15:18:50,865] 
+[2023-03-28 15:20:57,323] OS name = Windows 11
+[2023-03-28 15:20:57,325] 
+[2023-03-28 15:26:53,806] OS name = Windows 11
+[2023-03-28 15:26:53,808] 
+[2023-03-28 15:31:26,750] OS name = Windows 11
+[2023-03-28 15:31:26,751] 
+[2023-03-28 15:38:09,357] Precondition: enter to username 'automationfc'
+[2023-03-28 15:38:09,540] Precondition: enter to password 'automationfc'
+[2023-03-28 15:38:09,675] Precondition: click to 'Login' button
+[2023-03-28 15:38:12,162] Create - Step 01: click to 'Post' menu
+[2023-03-28 15:38:13,314] Create - Step 02: get URL at 'Post Search' page
+[2023-03-28 15:38:13,320] Create - Step 03: click to 'Add New' button
+[2023-03-28 15:38:16,131] Create - Step 04: enter to tilte textbox
+[2023-03-28 15:38:16,530] Create - Step 05: enter to body textbox
+[2023-03-28 15:38:17,699] Create - Step 06: click to 'Publish' button
+[2023-03-28 15:38:17,867] Create - Step 07: verify 'Publish' message is displayed
+[2023-03-28 15:38:19,051] OS name = Windows 11
+[2023-03-28 15:38:19,051] Driver instance name = chromedriver: chrome on windows (cde7f4bacc3b57a15572cd547565701c)

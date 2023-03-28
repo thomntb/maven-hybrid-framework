@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Facebook">
+	
+	<listeners>
+		<listener class-name="commons.MethodListener"/>
+	</listeners>
+	
+	<parameter name="url" value="https://www.facebook.com/"/>
+  	<test name="Run in Firefox">
+  	<parameter name="browser" value="firefox"/>
+		<classes>
+			<class name="com.facebook.login.Level_11_Element_Display_And_Undisplay"/>
+		</classes>
+	</test>
+	
+</suite>

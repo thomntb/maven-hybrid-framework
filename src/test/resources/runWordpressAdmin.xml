@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Wordpress - Admin">
+	
+	<listeners>
+		<listener class-name="commons.MethodListener"/>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="reportConfig.ReportNGListener"/>
+	</listeners>
+	
+	<!--<parameter name="urlAdmin" value="https://megau.blog/wp-admin/"/>
+	<parameter name="urlUser" value="https://megau.blog/"/>
+	<parameter name="environment" value="admin"/>
+	-->
+	
+	
+  	<test name="Run in Chrome">
+  	<parameter name="browser" value="chrome"/>
+		<classes>
+			<class name="com.wordpress.admin.Level_18_Multi_Environment_Owner"/>
+		</classes>
+	</test>
+	
+</suite>

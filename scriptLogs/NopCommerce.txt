@@ -1,0 +1,12 @@
+[2023-03-28 15:38:09,357] Precondition: enter to username 'automationfc'
+[2023-03-28 15:38:09,540] Precondition: enter to password 'automationfc'
+[2023-03-28 15:38:09,675] Precondition: click to 'Login' button
+[2023-03-28 15:38:12,162] Create - Step 01: click to 'Post' menu
+[2023-03-28 15:38:13,314] Create - Step 02: get URL at 'Post Search' page
+[2023-03-28 15:38:13,320] Create - Step 03: click to 'Add New' button
+[2023-03-28 15:38:16,131] Create - Step 04: enter to tilte textbox
+[2023-03-28 15:38:16,530] Create - Step 05: enter to body textbox
+[2023-03-28 15:38:17,699] Create - Step 06: click to 'Publish' button
+[2023-03-28 15:38:17,867] Create - Step 07: verify 'Publish' message is displayed
+[2023-03-28 15:38:19,051] OS name = Windows 11
+[2023-03-28 15:38:19,051] Driver instance name = chromedriver: chrome on windows (cde7f4bacc3b57a15572cd547565701c)
